@@ -162,7 +162,7 @@ while op != 0:
 
         if le == 0:
 
-            mod.teste_deregistro()
+            mod.teste_de_registro()
 
         else:
 
